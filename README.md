@@ -1,5 +1,4 @@
 
-![Plane home image](https://raw.githubusercontent.com/SHAMIA-MAHERIN/The_AVIATOR_3D/7838688f305084d3817d2529024949da38a53e0b/THE_AVIATOR_3D_PLANE-main/image2.png)
 # THE_AVIATOR_3D_PLANE_HOME
 ![Image1](https://raw.githubusercontent.com/SHAMIA-MAHERIN/The_AVIATOR_3D/main/THE_AVIATOR_3D_PLANE-main/image2.png) 
 # THE_AVIATOR_3D_PLANE_BODY_AND_GAME_SURFACE
