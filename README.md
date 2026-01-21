@@ -113,7 +113,7 @@ Contributions are welcome! Please open issues or submit pull requests for improv
 
 ## 📬 Contact
 
-For questions or collaboration, reach out to [Tanvir284](https://github.com/SHAMIA-MAHERIN).
+For questions or collaboration, reach out to [SHAMIA-MAHERIN](https://github.com/SHAMIA-MAHERIN).
 
 ---
 
